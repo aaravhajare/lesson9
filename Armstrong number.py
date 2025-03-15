@@ -10,7 +10,7 @@ while tem > 0:
     tem //= 10
 
 if (n == sum) :
-    print("it is a armstrrong number")
+    print("it is a armstrong number")
 
 else :
     print("it is not a armstrong number")
